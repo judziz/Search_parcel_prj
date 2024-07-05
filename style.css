@@ -1,0 +1,19 @@
+#map {
+  height: 100vh;
+}
+.leaflet-control-layers {
+  background: white;
+  padding: 10px;
+}
+.custom-legend {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  background: white;
+  padding: 10px;
+  border: 2px solid #ccc;
+}
+.custom-legend button {
+  display: block;
+  margin: 5px 0;
+}
